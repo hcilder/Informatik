@@ -9,6 +9,10 @@ pre{
   font-family: "monospace"
 }
 
+.li {
+  padding: 0px 10px 10px 0px
+}
+
 h1 {
     color:  rgb(164, 186, 193);
   }
