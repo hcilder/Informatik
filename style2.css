@@ -5,8 +5,13 @@
   font-family: "Helvetica"
 }
 
-pre{
+pre {
   font-family: "monospace"
+}
+
+.code1 {
+  padding-left: 20px; 
+  border: 2px rgb(164, 186, 193);
 }
 
 .li1 {
