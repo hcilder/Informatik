@@ -9,13 +9,8 @@ pre {
   font-family: "monospace"
 }
 
-code {
-  padding-left: 20px; 
-  border: 2px rgb(164, 186, 193);
-}
-
 li {
-  padding: 0px 10px 10px 0px
+  padding: 0px 10px 10px 0px;
 }
 
 h1 {
