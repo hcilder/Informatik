@@ -1,0 +1,12 @@
+<svg
+xmlns="http://www.w3.org/2000/svg" 
+
+x="0px" y="0px" width="600px" height="600px" viewBox="0 0 600 600" enable-background="new 0 0 600 600" xml:space="preserve">
+	
+ <rect fill="#6600FF" stroke="none" x="0" y="0" width="400" height="400"/>
+	
+ <polygon fill="#FFFFFF" stroke="#FFFFFF" points="350,250 50,250 50,150 350,150"/>
+	
+ <polygon fill="#FFFFFF" stroke="#FFFFFF" points="250,350 150,350 150,50 250,50"/>
+
+</svg>
