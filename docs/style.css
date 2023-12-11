@@ -25,7 +25,7 @@ header {
 /* nav umschliesst navigations-Elemente */
 nav {
   float: left;
-  width: 30%;
+  width: 15%;
   height: 300px;
   background: #fff;
   padding: 20px;
@@ -34,16 +34,17 @@ nav {
 /* Platzierung Liste (ul) linker Balken */
 nav ul {
   list-style-type: none;
-  padding: 0;
+  padding: 15px;
+  line-height: 180%
 }
 
 /* rechter Balken und platzierung Text */
 article {
   float: left;
-  padding: 20px;
+  padding: 30px;
   width: 70%;
   background-color: #f1f1f1;
-  height: 300px;
+  height: 400px;
 }
 
 footer {

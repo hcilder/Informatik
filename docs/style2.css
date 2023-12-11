@@ -34,6 +34,11 @@ button {
     left: 1200px;
 }
 
+article {
+  padding: 40px;
+}
+
+
 header {
     background-color: lightblue;
     text-align: center;
